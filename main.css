@@ -1,0 +1,27 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: #d6ecff;
+    margin: auto;
+    text-align: center;
+    font-size: 70px;
+    font-family: fantasy;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #e5f3ff;
+}
+.board{
+    padding-top: 60px;
+    color: #3e91d7;}
+button{
+    padding: 10px 30px;
+    border: none;
+    background-color: #d6ecff;
+    border-radius: 5px;
+    width: fit-content;
+    font-size: 25px;
+    margin-top: 60px;
+    color: #3e91d7;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1px solid #90bfe7;
+}
